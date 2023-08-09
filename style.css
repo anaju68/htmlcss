@@ -1,0 +1,16 @@
+
+.pa1 {
+    display: flex;
+    background-color: blueviolet;
+  }
+  
+  .pa1 > div {
+    background-color: #ffffff;
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+  }
+
+  body{
+    background-color: rgb(201, 29, 192);
+  }
